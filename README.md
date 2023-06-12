@@ -1,5 +1,14 @@
 # Omnifood
 
+ ```                              
+  ______   .___  ___. .__   __.  __   _______   ______     ______    _______  
+ /  __  \  |   \/   | |  \ |  | |  | |   ____| /  __  \   /  __  \  |       \ 
+|  |  |  | |  \  /  | |   \|  | |  | |  |__   |  |  |  | |  |  |  | |  .--.  |
+|  |  |  | |  |\/|  | |  . `  | |  | |   __|  |  |  |  | |  |  |  | |  |  |  |
+|  `--'  | |  |  |  | |  |\   | |  | |  |     |  `--'  | |  `--'  | |  '--'  |
+ \______/  |__|  |__| |__| \__| |__| |__|      \______/   \______/  |_______/ 
+                              
+```
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A fictional online food delivery service website built with HTML, CSS, and JavaScript.
